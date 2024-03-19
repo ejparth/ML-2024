@@ -3,3 +3,4 @@
 **Day 3:** 3/16/2023 Swotted on Onehot Encoding - Used Cars name as one of the categories and used OHE to convert categorical data into numerical values.\
 **Day 4:** 3/18/2023 Practiced train and test split method. used library of sklearn and used model selection. I also watched the video on Logistic Regression and solved some of the examples and excercise.\
 **Day 5:** 3/19/2023 Practiced multivariate classification. solved Iris and digits dataset from sklearn library.\
+**Day 6:** 3/20/2023 Went through Decision Tree and implemented decision tree classifier on Titanic data and Salary data. Used Label Encoding to convert catergorical data into numerical values.
