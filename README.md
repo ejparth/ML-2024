@@ -9,3 +9,4 @@
 **Day 9:** 3/23/2024 Tried my hands on with K Fold Validation technique used cross val score from sklearn.modelselection. Also completed Kmeans clustering with Elbow method. Created Matplotlib graph for Elbow method to determine the optimal number of K for the algorithm.\
 **Day 10:** 3/24/2024 I have completed some parts of EDA and also how to more efficiently used pandas.\
 **Day 11** 3/25/2024 Gone through Naive Bayes ML technique. implemented NB Gaussian on Titanic Data
+**Day 12** 3/26/2024 Completed Naive Bayes and HyperParameter Tuning.
