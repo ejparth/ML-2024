@@ -14,3 +14,4 @@
 **Day 14** 3/28/2024 Completed PCA - Principal Component Analysis. Main aim is select features which are higly important for training the mode.\
 **Day 15** 3/29/2024 Used all feature extraction techiques, onehotencoding, KFold Cross Validation, GridSearchCV. Also learnt how to identify outliers and remove them from the data. Used IQR, SD technique and Eigen Values methods.
 **Day 16** 3/30/2024 Created V.1 of Cheat sheet for Data Science. 
+**Day 17** 3/31/2024 As I have completed most of the Algorithms in ML Classical. Spent my day auditing what I learnt for continous two weeks and also laid down plan for next month. I will be focussing on deploying the trained algos and after that will start with NLP.
