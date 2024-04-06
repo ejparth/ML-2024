@@ -17,5 +17,7 @@
 **Day 17** 3/31/2024 As I have completed most of the Algorithms in ML Classical. Spent my day auditing what I learnt for continous two weeks and also laid down plan for next month. I will be focussing on deploying the trained algos and after that will start with NLP.
 **Day 18** 4/1/2024 Advanced Python + Revision 
 **Day 19** 4/2/2024 Advanced Python + Flask started + Revision
-**Day 20** 4/3/2024 XgBoost + Food App
+**Day 20** 4/3/2024 XgBoost + Food Roster App
 **Day 21** 4/4/2024 XgBoost HyperParameter Tunnig 
+**Day 22** 4/5/2024 Revision
+**Day 23** 4/6/2024 XgBoost Breast Cancer Classification
