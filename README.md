@@ -12,14 +12,14 @@
 **Day 12** 3/26/2024 Completed Naive Bayes and HyperParameter Tuning.\
 **Day 13** 3/27/2024 Comppleted KNN - K nearest neighbours is a classification model. Calculates the Elucedian distance between the k nearest points from the target point.\
 **Day 14** 3/28/2024 Completed PCA - Principal Component Analysis. Main aim is select features which are higly important for training the mode.\
-**Day 15** 3/29/2024 Used all feature extraction techiques, onehotencoding, KFold Cross Validation, GridSearchCV. Also learnt how to identify outliers and remove them from the data. Used IQR, SD technique and Eigen Values methods.
-**Day 16** 3/30/2024 Created V.1 of Cheat sheet for Data Science. 
-**Day 17** 3/31/2024 As I have completed most of the Algorithms in ML Classical. Spent my day auditing what I learnt for continous two weeks and also laid down plan for next month. I will be focussing on deploying the trained algos and after that will start with NLP.
-**Day 18** 4/1/2024 Advanced Python + Revision 
-**Day 19** 4/2/2024 Advanced Python + Flask started + Revision
-**Day 20** 4/3/2024 XgBoost + Food Roster App
-**Day 21** 4/4/2024 XgBoost HyperParameter Tunnig 
-**Day 22** 4/5/2024 Revision
-**Day 23** 4/6/2024 XgBoost Breast Cancer Classification
-**Day 24** 4/7/2024 Worked further on Flask + check Streamlit
-**Day 25** 4/8/2024 Worked on Streamlit
+**Day 15** 3/29/2024 Used all feature extraction techiques, onehotencoding, KFold Cross Validation, GridSearchCV. Also learnt how to identify outliers and remove them from the data. Used IQR, SD technique and Eigen Values methods.\
+**Day 16** 3/30/2024 Created V.1 of Cheat sheet for Data Science. \
+**Day 17** 3/31/2024 As I have completed most of the Algorithms in ML Classical. Spent my day auditing what I learnt for continous two weeks and also laid down plan for next month. I will be focussing on deploying the trained algos and after that will start with NLP.\
+**Day 18** 4/1/2024 Advanced Python + Revision \
+**Day 19** 4/2/2024 Advanced Python + Flask started + Revision\
+**Day 20** 4/3/2024 XgBoost + Food Roster App\
+**Day 21** 4/4/2024 XgBoost HyperParameter Tunnig \
+**Day 22** 4/5/2024 Revision\
+**Day 23** 4/6/2024 XgBoost Breast Cancer Classification\
+**Day 24** 4/7/2024 Worked further on Flask + check Streamlit\
+**Day 25** 4/8/2024 Worked on Streamlit\
