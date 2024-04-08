@@ -21,3 +21,5 @@
 **Day 21** 4/4/2024 XgBoost HyperParameter Tunnig 
 **Day 22** 4/5/2024 Revision
 **Day 23** 4/6/2024 XgBoost Breast Cancer Classification
+**Day 24** 4/7/2024 Worked further on Flask + check Streamlit
+**Day 25** 4/8/2024 Worked on Streamlit
